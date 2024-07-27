@@ -1,0 +1,16 @@
+{
+  "name": "hw_17-07",
+  "version": "1.0.0",
+  "description": "hw",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "nodejs"
+  ],
+  "author": "Valeria Guk <guk.lera94@gmail.com>",
+  "license": "ISC"
+}
